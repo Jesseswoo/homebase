@@ -68,9 +68,9 @@ This is a living document to survey basic information about specific Natural His
 ## Barcode of Life
 
 - Link:  [Barcode of Life](http://boldsystems.org/)
-- About:
-- Type of data offered:
-- How to access data:
+- About: The Barcode of Life database contains taxonomical, geographical, and sequencing data that can be used to identify organisms. The database accepts taxonomical or geographical queries and returns any organisms that match the specified criteria. The database also contains an identification portal that accepts DNA sequences to identify organisms down to the species level. 
+- Type of data offered: Geographic, Taxonomic, and DNA Sequencing data
+- How to access data: The database is publically available and does not require an account to access the data. The [search portal](http://boldsystems.org/index.php/Public_BINSearch?searchtype=records) can be utilized to access data about an organism, and the [identification portal] (http://boldsystems.org/index.php/IDS_OpenIdEngine) can be used to identify an organism by its DNA sequence. 
 
 ## Bird Sound Database
 
